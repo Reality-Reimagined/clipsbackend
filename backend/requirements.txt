@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+google-generativeai
+yt-dlp==2023.11.16
+ffmpeg-python==0.2.0
+pydantic==2.5.2
+python-multipart==0.0.6
+uuid==1.30
